@@ -1,5 +1,8 @@
 # courthouse-bot
 
+## Description
+This bot collects data (messages from minecraft) using a local client log. It does not log any players that do not allow. To allow, do `.allow` when the recorder says so. To request to remove data, contact recorder. (that's about it)
+
 ## Commands
 
 #### For users
